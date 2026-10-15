@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f4ef">
+  <meta name="description" content="Explore the Hebbal tree survey on an OpenStreetMap map, using the grouped source CSVs.">
+  <title>Hebbal tree survey map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="./visualizer/style.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="./visualizer/app.js"></script>
+</head>
+<body>
+  <main class="layout">
+    <aside class="sidebar" aria-label="Tree survey controls">
+      <header class="masthead">
+        <div class="eyebrow">Hebbal Lake · tree survey</div>
+        <h1>Find a tree on the map</h1>
+        <p>Browse the transcribed survey tables by printed heading. Select a tree to see its source row.</p>
+      </header>
+
+      <div id="status" class="status" role="status" aria-live="polite">Loading survey tables…</div>
+      <div class="summary" aria-label="Current results">
+        <div><strong id="result-count">—</strong><span>matching trees</span></div>
+        <div><strong id="mapped-count">—</strong><span>on map</span></div>
+        <div><strong id="unmapped-count">—</strong><span>to review</span></div>
+      </div>
+
+      <form id="filters" class="filters" autocomplete="off">
+        <label for="heading">Printed heading</label>
+        <select id="heading" name="heading"><option value="">All headings</option></select>
+        <div class="filter-row">
+          <div><label for="action">Survey action</label><select id="action" name="action"><option value="">All actions</option></select></div>
+          <div><label for="condition">Condition</label><select id="condition" name="condition"><option value="">All conditions</option></select></div>
+        </div>
+        <label for="search">Find tree</label>
+        <input id="search" name="search" type="search" placeholder="Tree no., name, serial…">
+        <div class="filter-actions">
+          <button type="button" id="fit" class="button-primary">Fit results</button>
+          <button type="button" id="reset">Clear filters</button>
+        </div>
+      </form>
+
+      <section id="selected" class="selected" aria-live="polite" hidden></section>
+      <section id="unmapped" class="unmapped" hidden>
+        <h2>Coordinates to review</h2>
+        <p>These records match your filters but fall outside the survey area or have invalid coordinates.</p>
+        <div id="unmapped-list"></div>
+      </section>
+
+      <section class="results" aria-label="Matching trees">
+        <div class="section-title"><h2>Matching rows</h2><span id="list-caption"></span></div>
+        <div id="results-list" class="results-list"></div>
+        <button id="show-more" type="button" class="show-more" hidden>Show more rows</button>
+      </section>
+      <footer class="sidebar-footer">Data: <a href="./data/by_heading/manifest.csv">survey CSVs</a> · <a href="./README.md">about this data</a></footer>
+    </aside>
+    <section class="map-panel" aria-label="OpenStreetMap view">
+      <div id="map" role="application" aria-label="Map of surveyed trees"></div>
+      <div class="map-legend" aria-label="Map legend">
+        <span><i class="legend-dot cutting"></i> Cutting</span>
+        <span><i class="legend-dot transplanting"></i> Transplanting</span>
+        <span><i class="legend-dot other"></i> Other / unknown</span>
+        <span><i class="legend-dot mixed"></i> Mixed group</span>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
