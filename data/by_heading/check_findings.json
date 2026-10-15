@@ -1,0 +1,817 @@
+{
+  "summary": {
+    "groups": 12,
+    "rows": 1236,
+    "pages": 34,
+    "manual_notes": 77,
+    "automatic_findings": 3,
+    "automatic_errors": 0,
+    "automatic_by_code": {
+      "tree_number_decrease": 1,
+      "coordinate_outlier": 1,
+      "missing_value": 1
+    }
+  },
+  "findings": [
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "03_rhs_tunnel_hebbal_lake",
+      "source_page": "21",
+      "row_identifier": "tree_no_29_and_29A",
+      "field": "latitude",
+      "message": "Ink stamp obscures the printed coordinate; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "03_rhs_tunnel_hebbal_lake",
+      "source_page": "24",
+      "row_identifier": "tree_no_96",
+      "field": "sl_no",
+      "message": "Printed serial appears to read 79 between SL88 and SL90; preserved as printed for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "03_rhs_tunnel_hebbal_lake",
+      "source_page": "25",
+      "row_identifier": "tree_no_157",
+      "field": "latitude",
+      "message": "Ink stamp obscures the printed coordinate; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "03_rhs_tunnel_hebbal_lake",
+      "source_page": "25",
+      "row_identifier": "tree_no_158",
+      "field": "latitude",
+      "message": "Ink stamp obscures the printed coordinate; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "03_rhs_tunnel_hebbal_lake",
+      "source_page": "25",
+      "row_identifier": "tree_no_159",
+      "field": "latitude/longitude",
+      "message": "Ink stamp obscures the printed coordinates; left blank for review."
+    },
+    {
+      "source": "automatic",
+      "severity": "review",
+      "code": "tree_number_decrease",
+      "group": "04_lake_ch_0_400_to_0_540",
+      "source_page": "28",
+      "row_identifier": "61",
+      "field": "tree_no",
+      "message": "Tree number falls from 1517 to 86"
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "04_lake_ch_0_400_to_0_540",
+      "source_page": "28",
+      "row_identifier": "SL NO 62 / Tree No. 87",
+      "field": "Longitude",
+      "message": "Value is not legible/appears blank in scan; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "05_ch_0_550_to_0_700",
+      "source_page": "30",
+      "row_identifier": "SL NO 42 / Tree No. 246",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "34",
+      "row_identifier": "SL NO 45 / Tree No. 712",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "34",
+      "row_identifier": "SL NO 46 / Tree No. 713",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "34",
+      "row_identifier": "SL NO 47 / Tree No. 714",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "34",
+      "row_identifier": "SL NO 48 / Tree No. 715",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "34",
+      "row_identifier": "SL NO 49 / Tree No. 716",
+      "field": "Latitude and Longitude",
+      "message": "Ink stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "53",
+      "field": "longitude",
+      "message": "Independent reads differed at one digit; enlarged scan supports 77.574833. Please verify if using this coordinate."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "75",
+      "field": "cutting_transplanting",
+      "message": "Source action cell is blank for dead tree."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "81",
+      "field": "cutting_transplanting",
+      "message": "Source action cell is blank for dead tree."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "83",
+      "field": "cutting_transplanting",
+      "message": "Source action cell is blank for dead tree."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "95",
+      "field": "latitude",
+      "message": "Stamp partly overlaps the value; transcribed as 13.034517 from the enlarged scan. Please verify if using this coordinate."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "97",
+      "field": "latitude",
+      "message": "Stamp obscures the value; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "35",
+      "row_identifier": "98",
+      "field": "latitude/longitude",
+      "message": "Stamp obscures coordinates; left blank for review."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "112",
+      "field": "tree_no",
+      "message": "Tree number jumps from 781 to 784; tree numbers 782–783 are not listed."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "126",
+      "field": "tree_no",
+      "message": "Tree number jumps from 798 to 802; tree numbers 799–801 are not listed."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "143",
+      "field": "latitude",
+      "message": "Blank: latitude is obscured by the official stamp; unreadable with confidence."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "147",
+      "field": "latitude",
+      "message": "Blank: latitude is obscured by the official stamp; unreadable with confidence."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "147",
+      "field": "longitude",
+      "message": "Blank: longitude obscured by the official stamp; unreadable with confidence."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "08_ch_1_600_to_1_800",
+      "source_page": "36",
+      "row_identifier": "147",
+      "field": "tree_no",
+      "message": "Tree number jumps from 822 to 1458; tree numbers 823–1457 are not listed."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "40",
+      "field": "tree_no",
+      "message": "Sequence jumps from 869 to 1008; tree numbers 870–1007 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "41",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1008 to 1046; tree numbers 1009–1045 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "46",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1050 to 1064; tree numbers 1051–1063 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "53",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1070 to 1072; tree number 1071 is not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "61",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1079 to 1094; tree numbers 1080–1093 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "09_veterinary_college_ch_1_800_to_1_900",
+      "source_page": "39",
+      "row_identifier": "68",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1100 to 1112; tree numbers 1101–1111 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "40",
+      "field": "latitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "40",
+      "field": "longitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "41",
+      "field": "latitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "41",
+      "field": "longitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "42",
+      "field": "girth_m",
+      "message": "Official stamp obscures cell; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "42",
+      "field": "latitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "42",
+      "row_identifier": "42",
+      "field": "longitude",
+      "message": "Official stamp obscures coordinate; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "81",
+      "field": "latitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "82",
+      "field": "latitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "82",
+      "field": "longitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "83",
+      "field": "latitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "83",
+      "field": "longitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "84",
+      "field": "latitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "43",
+      "row_identifier": "84",
+      "field": "longitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "85",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1006 to 1131; intervening tree number(s) 1007–1130 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "86",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1131 to 1138; intervening tree number(s) 1132–1137 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "89",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1140 to 1150; intervening tree number(s) 1141–1149 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "125",
+      "field": "latitude",
+      "message": "Obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "125",
+      "field": "longitude",
+      "message": "Obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "126",
+      "field": "approx_height_m",
+      "message": "Obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "126",
+      "field": "latitude",
+      "message": "Obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "44",
+      "row_identifier": "126",
+      "field": "longitude",
+      "message": "Obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "127",
+      "field": "longitude",
+      "message": "Last digit is unclear at the right edge of the scan; left blank."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "140",
+      "field": "cutting_transplanting",
+      "message": "Blank in source row (tree marked Dead); preserved as blank."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "142",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1202 to 1204; intervening tree number(s) 1203–1203 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "152",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1213 to 1215; intervening tree number(s) 1214–1214 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "153",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1215 to 1236; intervening tree number(s) 1216–1235 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "154",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1236 to 1238; intervening tree number(s) 1237–1237 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "155",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1238 to 1246; intervening tree number(s) 1239–1245 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "157",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1247 to 1250; intervening tree number(s) 1248–1249 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "11_uas_staff_quarter_ch_2_000_to_2_200",
+      "source_page": "45",
+      "row_identifier": "159",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1251 to 1290; intervening tree number(s) 1252–1289 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "2",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1130 to 1132; intervening tree number(s) 1131–1131 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "8",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1137 to 1141; intervening tree number(s) 1138–1140 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "17",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1149 to 1203; intervening tree number(s) 1150–1202 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "18",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1203 to 1214; intervening tree number(s) 1204–1213 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "19",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1214 to 1216; intervening tree number(s) 1215–1215 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "37",
+      "field": "longitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "automatic",
+      "severity": "review",
+      "code": "coordinate_outlier",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "38",
+      "field": "longitude",
+      "message": "Outside broad project bounds: 77.0588055"
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "38",
+      "field": "longitude",
+      "message": "Partly obscured by official stamp; blanked."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "46",
+      "row_identifier": "39",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1235 to 1237; intervening tree number(s) 1236–1236 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "40",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1237 to 1239; intervening tree number(s) 1238–1238 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "47",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1245 to 1248; intervening tree number(s) 1246–1247 are not listed in this table."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "48",
+      "field": "cutting_transplanting",
+      "message": "Blank in source row (tree marked Dead); preserved as blank."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "49",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1249 to 1252; intervening tree number(s) 1250–1251 are not listed in this table."
+    },
+    {
+      "source": "automatic",
+      "severity": "review",
+      "code": "missing_value",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "72",
+      "field": "canopy_diameter_m",
+      "message": "Cell is blank"
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "72",
+      "field": "canopy_diameter_m",
+      "message": "Cell appears blank in scan; left blank in CSV."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "47",
+      "row_identifier": "77",
+      "field": "latitude",
+      "message": "Obscured by official stamp; left blank in CSV."
+    },
+    {
+      "source": "manual",
+      "severity": "review",
+      "code": "manual_review",
+      "group": "12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200",
+      "source_page": "48",
+      "row_identifier": "87",
+      "field": "tree_no",
+      "message": "Sequence jumps from 1289 to 1291; intervening tree number(s) 1290–1290 are not listed in this table."
+    }
+  ]
+}
