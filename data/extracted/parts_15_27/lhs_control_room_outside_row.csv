@@ -1,0 +1,74 @@
+sl_no,tree_no,tree_english_common_name,botanical_name,latitude,longitude,girth_m,approx_height_m,canopy_diameter_m,condition_of_tree,cutting_transplanting,location,source_page
+1,215,"Big-leaf mahogany","Swetinia macrophylla King",13.042562,77.588632,1.10,6,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+2,1341,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043329,77.591181,0.90,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+3,1348,Pongam tree,"Pongamia pinnata (Linn.) Pierre",13.043372,77.591455,0.35,3,1,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+4,1354,Mayflower,"Delonix regia (Hook.) Rafin.",13.043653,77.591438,1.00,3,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+5,1355,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043653,77.591440,0.85,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+6,1356,Indian almond,"Terminalia catappa Linn.",13.043653,77.591440,0.55,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+7,1357,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043727,77.591402,0.90,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+8,1358,African tulip tree,"Spathodea campanulata Beauv.",13.043727,77.591402,0.85,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+9,1359,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043727,77.591402,0.65,4,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+10,1360,Yellow Tabebuia,"Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore",13.043531,77.591488,0.55,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+11,1361,Yellow Tabebuia,"Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore",13.043471,77.591462,0.40,4,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+12,1362,Indian almond,"Terminalia catappa Linn.",13.043413,77.591412,0.65,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+13,1363,Cannonball tree,"Couroupita guianensis Aubl.",13.043413,77.591412,0.85,5,5,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+14,1364,Indian almond,"Terminalia catappa Linn.",13.043413,77.591412,0.70,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+15,1365,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043413,77.591412,0.75,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+16,1366,Indian cork tree,"Millingtonia hortensis Linn.f.",13.043413,77.591412,0.75,6,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+17,1367,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043413,77.591412,0.85,5,5,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+18,1368,Indian almond,"Terminalia catappa Linn.",13.043487,77.591362,0.65,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+19,1369,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043544,77.591338,0.70,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+20,1370,Indian kino tree,"Pterocarpus marsupium Roxburgh.",13.043628,77.591308,0.70,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+21,1371,Spanish cherry,"Mimusops elengi Linn.",13.043578,77.591275,0.30,3,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+22,1372,Indian almond,"Terminalia catappa Linn.",13.043555,77.591240,0.85,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+23,1373,Lipstick tree,"Bixa orellana L.",13.043440,77.591138,0.95,6,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+24,1374,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043512,77.591195,0.95,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+25,1375,Pale Trumpet tree,"Tabebuia pallida (Lindl.) Miers",13.043503,77.591225,0.60,5,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+26,1376,Cannonball tree,"Couroupita guianensis Aubl.",13.043493,77.591158,0.85,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+27,1377,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043493,77.591158,0.80,4,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+28,1378,Wild guava,"Careya arborea Roxb.",13.043493,77.591158,0.65,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+29,1379,Buddha's coconut,"Pterygota alata (Roxb.) R. Br.",13.043493,77.591158,0.85,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+30,1380,True ashoka,"Saraca asoka (Roxb.) de Wilde",13.043493,77.591158,0.45,3,1,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+31,1381,Red-leaved fig,"Ficus ingens (Miq.) Miq.",13.043398,77.591148,0.45,3,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+32,1382,Fern tree,"Filicium decipiens (Wight & Arn.) Thwaites",13.043404,77.591176,0.45,3,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+33,1383,Unidentified,Unidentified,13.043403,77.591177,0.40,2,1,Dead,,"LHS TUNNEL (CONTROL ROOM)",15
+34,1384,Indian almond,"Terminalia catappa Linn.",13.043327,77.591068,0.40,3,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+35,1385,Spanish cherry,"Mimusops elengi Linn.",13.043327,77.591072,0.50,3,2,Healthy,CUTTING,"LHS TUNNEL (CONTROL ROOM)",15
+36,1386,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043327,77.591072,0.65,4,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+37,1387,Cannonball tree,"Couroupita guianensis Aubl.",13.043357,77.591048,0.70,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+38,1388,Indian gooseberry,"Emblica officinalis Gaertn.",13.043418,77.591043,0.70,4,3,Healthy,CUTTING,"LHS TUNNEL (CONTROL ROOM)",15
+39,1389,Wild guava,"Careya arborea Roxb.",13.043487,77.591043,0.75,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+40,1390,"Big-leaf mahogany","Swetinia macrophylla King",13.043600,77.591165,0.70,5,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+41,1391,Mayflower,"Delonix regia (Hook.) Rafin.",13.043600,77.591165,1.00,5,8,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+42,1392,White teak,"Gmelina arborea Roxb.",13.043644,77.591229,0.40,4,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+43,1393,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043678,77.591286,1.00,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+44,1394,Spanish cherry,"Mimusops elengi Linn.",13.043722,77.591298,0.45,3,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+45,1395,Nile trumpet,"Markhamia platycalyx (Baker) Sprague",13.043722,77.591298,0.40,4,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",15
+46,1396,Fern tree,"Filicium decipiens (Wight & Arn.) Thwaites",13.043722,77.591298,0.45,3,3,Healthy,CUTTING,"LHS TUNNEL (CONTROL ROOM)",16
+47,1397,Cannonball tree,"Couroupita guianensis Aubl.",13.043722,77.591298,0.65,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+48,1398,Cannonball tree,"Couroupita guianensis Aubl.",13.043818,77.591338,0.85,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+49,1399,Indian kino tree,"Pterocarpus marsupium Roxburgh.",13.043777,77.591539,0.85,6,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+50,1405,"Big-leaf mahogany","Swetinia macrophylla King",13.043803,77.591598,0.65,4,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+51,1406,Indian almond,"Terminalia catappa Linn.",13.043838,77.591515,0.60,4,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+52,1407,Java cassia,"Cassia Javanica L.",13.043838,77.591515,0.80,4,5,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+53,1408,Spanish cherry,"Mimusops elengi Linn.",13.043847,77.591422,0.30,3,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+54,1409,Pongam tree,"Pongamia pinnata (Linn.) Pierre",13.043835,77.591440,0.65,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+55,1410,Indian cork tree,"Millingtonia hortensis Linn.f.",13.043828,77.591442,0.75,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+56,1411,Notched leaf soapnut,"Sapindus emarginatus Vahl.",13.043792,77.591400,0.75,4,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+57,1412,Cannonball tree,"Couroupita guianensis Aubl.",13.043868,77.591467,0.70,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+58,1413,Chinaberry tree,"Melia azedarach L.",13.043868,77.591467,1.20,5,8,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+59,1414,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.043868,77.591467,0.85,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+60,1415,Fern tree,"Filicium decipiens (Wight & Arn.) Thwaites",13.043923,77.591467,0.40,3,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+61,1416,Spanish cherry,"Mimusops elengi Linn.",13.043923,77.591467,0.45,3,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+62,1417,Java cassia,"Cassia Javanica L.",13.044057,77.591443,0.85,4,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+63,1418,Indian almond,"Terminalia catappa Linn.",13.044051,77.591475,0.70,4,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+64,1419,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.044059,77.591456,0.85,4,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+65,1420,Singapur Cherry,"Muntingia calabura Linn.",13.044132,77.591539,0.70,3,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+66,1421,Pink Trumpet tree,"Tabebuia pentaphylla (Linn.) Hemsl.",13.044235,77.591582,1.00,5,6,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+67,1422,Madras thorn,"Pithecellobium dulce (Roxb.) Benth.",13.044263,77.591520,0.40,5,2,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+68,1423,Cannonball tree,"Couroupita guianensis Aubl.",13.044263,77.591520,0.80,5,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+69,1424,Java Plum,"Syzygium cuminii (Linn.) Skeels",13.044263,77.591520,0.85,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+70,1425,Indian kino tree,"Pterocarpus marsupium Roxburgh.",13.044263,77.591520,1.00,6,10,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+71,1426,Buddha's coconut,"Pterygota alata (Roxb.) R. Br.",13.044263,77.591520,1.00,6,4,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+72,1427,Pale Trumpet tree,"Tabebuia pallida (Lindl.) Miers",13.044263,77.591520,0.25,3,1,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16
+73,1431,Madras thorn,"Pithecellobium dulce (Roxb.) Benth.",13.044475,77.591499,0.80,5,3,Healthy,TRANSPLANTING,"LHS TUNNEL (CONTROL ROOM)",16

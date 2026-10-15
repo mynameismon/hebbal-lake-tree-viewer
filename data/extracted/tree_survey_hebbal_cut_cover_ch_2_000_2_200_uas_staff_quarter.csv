@@ -1,0 +1,160 @@
+source_page,sl_no,tree_no,tree_english_common_name,botanical_name,latitude,longitude,girth_m,approx_height_m,canopy_diameter_m,condition_of_tree,cutting_transplanting,location
+42,1,923,Coconut,Cocos nucifera Linn.,13.032128,77.588013,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,2,924,Big-leaf mahogany,Swetinia macrophylla King,13.032085,77.587980,0.65,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,3,925,Big-leaf mahogany,Swetinia macrophylla King,13.032015,77.587977,0.55,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,4,926,Big-leaf mahogany,Swetinia macrophylla King,13.032015,77.587977,0.65,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,5,927,Coconut,Cocos nucifera Linn.,13.031941,77.587971,0.95,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,6,928,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031945,77.587948,0.5,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,7,929,Coconut,Cocos nucifera Linn.,13.031893,77.587945,0.95,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,8,930,Coconut,Cocos nucifera Linn.,13.031866,77.587928,1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,9,931,Coconut,Cocos nucifera Linn.,13.031773,77.587867,0.85,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,10,932,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.031768,77.587865,0.45,4,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,11,933,Coconut,Cocos nucifera Linn.,13.031768,77.587865,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,12,934,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031640,77.587840,0.3,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,13,935,Paradise tree,Simarouba glauca DC,13.031640,77.587840,0.55,5,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,14,936,Nile trumpet,Markhamia platycalyx (Baker) Sprague,13.031598,77.587778,0.4,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,15,937,Coconut,Cocos nucifera Linn.,13.031588,77.587790,0.9,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,16,938,Rain Tree,Samanea saman (Jacq.) Merrill,13.031553,77.587755,1.2,6,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,17,939,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031553,77.587755,0.4,5,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,18,940,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031553,77.587755,0.4,4,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,19,941,Coconut,Cocos nucifera Linn.,13.031553,77.587755,0.9,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,20,942,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031553,77.587755,0.4,5,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,21,943,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031553,77.587755,0.4,5,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,22,944,Nile trumpet,Markhamia platycalyx (Baker) Sprague,13.031553,77.587755,0.4,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,23,945,Big-leaf mahogany,Swetinia macrophylla King,13.031553,77.587755,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,24,946,Paradise tree,Simarouba glauca DC,13.031435,77.587727,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,25,947,Big-leaf mahogany,Swetinia macrophylla King,13.031408,77.587710,0.4,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,26,948,Big-leaf mahogany,Swetinia macrophylla King,13.031408,77.587710,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,27,949,Nile trumpet,Markhamia platycalyx (Baker) Sprague,13.031408,77.587710,0.4,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,28,950,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031408,77.587710,0.65,6,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,29,951,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031438,77.587687,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,30,952,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031438,77.587687,0.4,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,31,953,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031438,77.587687,0.35,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,32,954,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031438,77.587687,0.45,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,33,955,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031403,77.587665,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,34,956,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031403,77.587665,0.95,6,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,35,957,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031403,77.587665,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,36,958,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031403,77.587665,0.4,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,37,959,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031403,77.587665,0.65,6,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,38,960,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031403,77.587665,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,39,961,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031326,77.587609,0.35,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,40,962,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,,,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,41,963,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,,,0.35,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+42,42,964,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,,,,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,43,965,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,44,966,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.35,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,45,967,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.65,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,46,968,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,47,969,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.65,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,48,970,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.65,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,49,971,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.55,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,50,972,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031325,77.587608,0.5,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,51,973,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031325,77.587608,0.3,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,52,974,Coconut,Cocos nucifera Linn.,13.031325,77.587608,0.95,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,53,975,Coconut,Cocos nucifera Linn.,13.031325,77.587608,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,54,976,Benjamin fig,Ficus benjamina Var. Nuda,13.031250,77.587606,0.3,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,55,977,Benjamin fig,Ficus benjamina Var. Nuda,13.031264,77.587595,0.35,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,56,978,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031260,77.587598,0.35,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,57,979,Coconut,Cocos nucifera Linn.,13.031260,77.587598,0.85,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,58,980,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031220,77.587555,0.7,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,59,981,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.031220,77.587555,0.4,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,60,982,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031220,77.587555,0.3,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,61,983,Paradise tree,Simarouba glauca DC,13.031220,77.587555,0.55,4,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,62,984,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031220,77.587555,0.3,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,63,985,Big-leaf mahogany,Swetinia macrophylla King,13.031220,77.587555,0.35,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,64,986,Jackfruit,Artocarpus heterophyllus Lamk.,13.031220,77.587555,0.25,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,65,987,Paradise tree,Simarouba glauca DC,13.031220,77.587555,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,66,988,Coconut,Cocos nucifera Linn.,13.031220,77.587555,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,67,989,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031220,77.587555,1.2,7,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,68,990,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031220,77.587555,0.95,5,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,69,991,Big-leaf mahogany,Swetinia macrophylla King,13.031139,77.587507,0.2,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,70,992,Paradise tree,Simarouba glauca DC,13.031138,77.587507,0.25,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,71,993,Paradise tree,Simarouba glauca DC,13.031138,77.587507,0.45,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,72,994,African tulip tree,Spathodia campanulata Beauv.,13.031138,77.587507,1.1,7,5,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,73,995,Jackfruit,Artocarpus heterophyllus Lamk.,13.031138,77.587507,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,74,996,Paradise tree,Simarouba glauca DC,13.031138,77.587507,0.45,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,75,997,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031013,77.587553,0.35,4,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,76,998,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031010,77.587485,1.2,7,10,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,77,999,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031015,77.587505,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,78,1000,Coconut,Cocos nucifera Linn.,13.030848,77.587432,1,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,79,1001,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.030842,77.587428,1.3,7,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,80,1002,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.030787,77.587418,1.1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,81,1003,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,,77.587390,0.2,2,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,82,1004,Siris tree,Albizzia lebbeck (Linn.) Willd.,,,1,5,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,83,1005,Coconut,Cocos nucifera Linn.,,,0.85,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+43,84,1006,Coconut,Cocos nucifera Linn.,,,0.85,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,85,1131,Paradise tree,Simarouba glauca DC,13.029605,77.586905,0.45,2,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,86,1138,Coconut,Cocos nucifera Linn.,13.029713,77.586953,0.85,3,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,87,1139,Paradise tree,Simarouba glauca DC,13.029717,77.586926,0.75,4,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,88,1140,Coconut,Cocos nucifera Linn.,13.029722,77.586989,0.8,4,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,89,1150,Coconut,Cocos nucifera Linn.,13.030418,77.587337,1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,90,1151,Coconut,Cocos nucifera Linn.,13.030541,77.587394,0.9,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,91,1152,Indian almond,Terminalia catappa Linn.,13.030543,77.587403,0.65,4,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,92,1153,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.030595,77.587425,0.45,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,93,1154,Indian almond,Terminalia catappa Linn.,13.030645,77.587455,0.3,2,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,94,1155,Indian almond,Terminalia catappa Linn.,13.030694,77.587480,0.25,2,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,95,1156,Coconut,Cocos nucifera Linn.,13.030695,77.587480,1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,96,1157,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.030695,77.587480,0.2,1.5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,97,1158,Beleric myrobalan,Terminalia bellirica (Gaertn.) Roxb.,13.030695,77.587480,0.25,2,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,98,1159,Willow Oak,Quercus phellos L.,13.030695,77.587480,0.25,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,99,1160,Cluster fig,Ficus racemosa Linn.,13.030755,77.587502,0.35,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,100,1161,Indian tulip tree,Thespesia populnea (Linn.) Sol.ex Cor.,13.030790,77.587513,0.3,4,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,101,1162,Coconut,Cocos nucifera Linn.,13.030790,77.587513,1.1,7,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,102,1163,Big-leaf mahogany,Swetinia macrophylla King,13.030880,77.587543,0.55,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,103,1164,Big-leaf mahogany,Swetinia macrophylla King,13.030880,77.587543,0.5,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,104,1165,Big-leaf mahogany,Swetinia macrophylla King,13.030880,77.587543,0.5,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,105,1166,Coconut,Cocos nucifera Linn.,13.030880,77.587543,0.95,7,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,106,1167,Coconut,Cocos nucifera Linn.,13.030970,77.587586,1,7,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,107,1168,Beleric myrobalan,Terminalia bellirica (Gaertn.) Roxb.,13.030954,77.587583,0.45,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,108,1169,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.030957,77.587593,1.8,7,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,109,1170,Coconut,Cocos nucifera Linn.,13.031015,77.587622,0.9,6,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,110,1171,Big-leaf mahogany,Swetinia macrophylla King,13.031063,77.587613,0.2,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,111,1172,Coconut,Cocos nucifera Linn.,13.031063,77.587613,0.95,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,112,1173,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031112,77.587665,0.2,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,113,1174,Hills weeping fig,Ficus microcarpa L.f.,13.031112,77.587665,0.3,3,2,Healthy,CUTTING,UAS STAFF QUARTER
+44,114,1175,Indian rosewood,Dalbergia sissoo Roxb. ex. DC.,13.031112,77.587665,0.2,2.5,2,Healthy,CUTTING,UAS STAFF QUARTER
+44,115,1176,Coconut,Cocos nucifera Linn.,13.031153,77.587662,1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,116,1177,Nile trumpet,Markhamia platycalyx (Baker) Sprague,13.031153,77.587662,0.45,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,117,1178,Coconut,Cocos nucifera Linn.,13.031197,77.587697,0.8,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,118,1179,Hills weeping fig,Ficus microcarpa L.f.,13.031228,77.587688,0.4,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,119,1180,Nile trumpet,Markhamia platycalyx (Baker) Sprague,13.031307,77.587650,0.55,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,120,1181,Coconut,Cocos nucifera Linn.,13.031307,77.587650,0.9,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,121,1182,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031307,77.587650,1,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,122,1183,West indian elm,Guazuma ulmifolia Lam.,13.031342,77.587747,0.4,3,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,123,1184,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031417,77.587757,0.45,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,124,1185,Coconut,Cocos nucifera Linn.,13.031417,77.587757,0.85,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,125,1186,Siris tree,Albizzia lebbeck (Linn.) Willd.,,,1,7.5,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+44,126,1187,Indian redwood,Soymida febrifuga (Roxb.) A. Juss.,,,1.5,,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,127,1188,Coconut,Cocos nucifera Linn.,13.031505,,1,7.5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,128,1189,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031547,77.587850,0.3,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,129,1190,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.031547,77.587850,0.85,5,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,130,1191,Coconut,Cocos nucifera Linn.,13.031603,77.587863,0.9,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,131,1192,Indian redwood,Soymida febrifuga (Roxb.) A. Juss.,13.031642,77.587857,0.2,3,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,132,1193,Big-leaf mahogany,Swetinia macrophylla King,13.031627,77.587893,0.3,4,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,133,1194,Coconut,Cocos nucifera Linn.,13.031704,77.587944,0.95,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,134,1195,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031703,77.587945,0.3,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,135,1196,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031703,77.587945,0.25,2,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,136,1197,Maple-leafed bayur tree,Pterospermum acerifolium (Gaertn.) Willd.,13.031703,77.587945,0.2,1.5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,137,1198,Big-leaf mahogany,Swetinia macrophylla King,13.031882,77.587999,0.45,5,1,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,138,1199,Coconut,Cocos nucifera Linn.,13.031921,77.587991,0.9,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,139,1200,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031987,77.588085,1.8,7,10,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,140,1201,Unidentified,Unidentified,13.032030,77.588003,0.8,5,3,Dead,,UAS STAFF QUARTER
+45,141,1202,Pala Indigo plant,Wrightia tinctoria (Roxb.) R. Br.,13.0321067,77.588095,0.8,5,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,142,1204,Coconut,Cocos nucifera Linn.,13.032107,77.588095,1,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,143,1205,Big-leaf mahogany,Swetinia macrophylla King,13.032100,77.588047,0.45,5,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,144,1206,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.032108,77.588090,0.4,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,145,1207,Coconut,Cocos nucifera Linn.,13.032108,77.588090,0.8,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,146,1208,Big-leaf mahogany,Swetinia macrophylla King,13.032172,77.588087,0.55,4,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,147,1209,Coconut,Cocos nucifera Linn.,13.032225,77.588155,1,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,148,1210,Coconut,Cocos nucifera Linn.,13.032225,77.588155,0.95,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,149,1211,African tulip tree,Spathodia campanulata Beauv.,13.032225,77.588155,1.5,7.5,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,150,1212,Coconut,Cocos nucifera Linn.,13.032253,77.588144,0.95,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,151,1213,Big-leaf mahogany,Swetinia macrophylla King,13.032219,77.588181,0.4,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,152,1215,Indian butter tree,Madhuca longifolia (J.Konig) J.F.Macbr.,13.032230,77.588128,0.35,3,2,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,153,1236,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.0316878,77.5880602,1.2,7,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,154,1238,Queen's crape myrtle,Lagerstroemia speciosa (Linn.) Pers,13.0316441,77.5880232,0.95,6,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,155,1246,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031422,77.587913,1,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,156,1247,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031422,77.587913,0.75,4,4,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,157,1250,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.0314217,77.5879133,1.1,5,6,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,158,1251,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.031321,77.587875,1.2,6,8,Healthy,TRANSPLANTING,UAS STAFF QUARTER
+45,159,1290,Mayflower,Delonix regia (Hook.) Rafin.,13.032458,77.588218,0.4,2,3,Healthy,TRANSPLANTING,UAS STAFF QUARTER

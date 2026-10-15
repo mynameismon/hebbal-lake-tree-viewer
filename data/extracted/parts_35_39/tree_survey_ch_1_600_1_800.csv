@@ -1,0 +1,52 @@
+source_page,sl_no,tree_no,tree_english_common_name,botanical_name,latitude,longitude,girth_m,approx_height_m,canopy_diameter_m,condition_of_tree,cutting_transplanting,location_ch
+36,99,770,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.034389,77.586597,0.3,5,2,Healthy,TRANSPLANTING,1600-1800
+36,100,771,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.034557,77.586872,0.7,5,6,Healthy,TRANSPLANTING,1600-1800
+36,101,772,Coconut,Cocos nucifera Linn.,13.034315,77.586423,1,6,6,Healthy,TRANSPLANTING,1600-1800
+36,102,773,Jackfruit,Artocarpus heterophyllus Lamk.,13.034315,77.586423,0.8,3,1,Healthy,TRANSPLANTING,1600-1800
+36,103,774,Coconut,Cocos nucifera Linn.,13.034315,77.586423,0.85,5,5,Healthy,TRANSPLANTING,1600-1800
+36,104,775,Madras thorn,Pithecellobium dulce (Roxb.) Benth.,13.034285,77.586510,1.2,9,8,Healthy,TRANSPLANTING,1600-1800
+36,105,776,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.034285,77.586510,1.1,8,6,Healthy,TRANSPLANTING,1600-1800
+36,106,777,Coconut,Cocos nucifera Linn.,13.034285,77.586510,0.95,8,6,Healthy,CUTTING,1600-1800
+36,107,778,Jackfruit,Artocarpus heterophyllus Lamk.,13.034285,77.586510,0.8,6,2,Healthy,CUTTING,1600-1800
+36,108,779,Jackfruit,Artocarpus heterophyllus Lamk.,13.034285,77.586510,0.85,6,2,Healthy,CUTTING,1600-1800
+36,109,780,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.034228,77.586577,0.25,3,2,Healthy,TRANSPLANTING,1600-1800
+36,110,781,Mango,Mangifera indica Linn.,13.034227,77.586375,0.85,4,4,Healthy,TRANSPLANTING,1600-1800
+36,111,784,Albizia sps.,Albizia sps.,13.034299,77.586412,0.65,5,6,Healthy,TRANSPLANTING,1600-1800
+36,112,785,Star gooseberry,Cicca acida Linn.,13.034298,77.586412,0.35,4,3,Healthy,TRANSPLANTING,1600-1800
+36,113,786,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.034222,77.586599,0.55,4,4,Healthy,TRANSPLANTING,1600-1800
+36,114,787,Jackfruit,Artocarpus heterophyllus Lamk.,13.034042,77.586660,0.55,4,3,Healthy,TRANSPLANTING,1600-1800
+36,115,788,Yellow cassia,Cassia siamea Lamk.,13.034042,77.586660,1.2,5,6,Healthy,TRANSPLANTING,1600-1800
+36,116,789,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.034042,77.586660,0.2,3,1,Healthy,TRANSPLANTING,1600-1800
+36,117,790,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.034042,77.586660,0.25,3,1,Healthy,TRANSPLANTING,1600-1800
+36,118,791,Jackfruit,Artocarpus heterophyllus Lamk.,13.034005,77.586585,0.85,5,3,Healthy,TRANSPLANTING,1600-1800
+36,119,792,Cluster fig,Ficus racemosa Linn.,13.034000,77.586617,1.5,7,6,Healthy,TRANSPLANTING,1600-1800
+36,120,793,Yellow cassia,Cassia siamea Lamk.,13.033952,77.586617,1,5,6,Healthy,TRANSPLANTING,1600-1800
+36,121,794,Mango,Mangifera indica Linn.,13.033962,77.586526,0.4,3,1,Healthy,TRANSPLANTING,1600-1800
+36,122,795,Jackfruit,Artocarpus heterophyllus Lamk.,13.033982,77.586536,0.55,6,1,Healthy,TRANSPLANTING,1600-1800
+36,123,796,Coconut,Cocos nucifera Linn.,13.033982,77.586537,0.95,7,6,Healthy,TRANSPLANTING,1600-1800
+36,124,797,Rain Tree,Samanea saman (Jacq.) Merrill,13.034082,77.586748,3,9,12,Healthy,TRANSPLANTING,1600-1800
+36,125,798,Grey Downy Balsam Tree,Garuga pinnata Roxb.,13.033685,77.587258,0.4,3,3,Healthy,TRANSPLANTING,1600-1800
+36,126,802,Rain Tree,Samanea saman (Jacq.) Merrill,13.033800,77.586849,3.5,9,15,Healthy,TRANSPLANTING,1600-1800
+36,127,803,Golden champa,Michelia champaca Linn.,13.033875,77.586905,1,7,4,Healthy,TRANSPLANTING,1600-1800
+36,128,804,Jackfruit,Artocarpus heterophyllus Lamk.,13.033868,77.586973,1.3,6,6,Healthy,TRANSPLANTING,1600-1800
+36,129,805,African tulip tree,Spathodia campanulata Beauv.,13.033868,77.586973,1.6,8,6,Healthy,TRANSPLANTING,1600-1800
+36,130,806,Mango,Mangifera indica Linn.,13.033832,77.587021,0.2,3,1,Healthy,TRANSPLANTING,1600-1800
+36,131,807,Neem,Azadirachta indica (Linn.) A. Juss.,13.033840,77.587078,0.85,6,4,Healthy,TRANSPLANTING,1600-1800
+36,132,808,Guava,Psidium guajava Linn.,13.033848,77.587100,0.2,4,2,Healthy,TRANSPLANTING,1600-1800
+36,133,809,Mango,Mangifera indica Linn.,13.033820,77.587293,1.1,5,10,Healthy,TRANSPLANTING,1600-1800
+36,134,810,Jackfruit,Artocarpus heterophyllus Lamk.,13.033820,77.587293,1,7,3,Healthy,TRANSPLANTING,1600-1800
+36,135,811,White champaca,Magnolia alba (DC.) Figlar,13.033743,77.587332,1,8,3,Healthy,TRANSPLANTING,1600-1800
+36,136,812,Cannonball tree,Couroupita guianensis Aubl.,13.033743,77.587332,1.2,6,4,Healthy,TRANSPLANTING,1600-1800
+36,137,813,White champaca,Magnolia alba (DC.) Figlar,13.033743,77.587332,1.2,6,3,Healthy,TRANSPLANTING,1600-1800
+36,138,814,Star gooseberry,Cicca acida Linn.,13.033813,77.587230,0.35,3,2,Healthy,TRANSPLANTING,1600-1800
+36,139,815,Jackfruit,Artocarpus heterophyllus Lamk.,13.033813,77.587230,0.4,3,2,Healthy,TRANSPLANTING,1600-1800
+36,140,816,Yellow copperpod,Peltophorum pterocarpum (DC.) Bk.exHyn,13.033427,77.587040,1.5,7,8,Healthy,CUTTING,1600-1800
+36,141,817,Java cassia,Cassia Javanica L.,13.033500,77.587270,0.95,3,3,Healthy,TRANSPLANTING,1600-1800
+36,142,818,Purple bauhinia,Bauhinia purpurea Linn.,13.033508,77.587273,0.9,5,6,Healthy,TRANSPLANTING,1600-1800
+36,143,819,Christmas Tree,Araucaria heterophylla (Salisb.) Franco,,77.587358,0.9,5,6,Healthy,TRANSPLANTING,1600-1800
+36,144,820,Grey Downy Balsam Tree,Garuga pinnata Roxb.,13.033423,77.587363,1.5,17,3,Healthy,TRANSPLANTING,1600-1800
+36,145,821,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033423,77.587363,0.35,3,2,Healthy,CUTTING,1600-1800
+36,146,822,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033423,77.587363,0.55,4,1,Healthy,CUTTING,1600-1800
+36,147,1458,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,,,0.4,4,2,Healthy,TRANSPLANTING,1600-1800
+37,148,1459,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.044670,77.574834,0.5,5,2,Healthy,TRANSPLANTING,1600-1800
+37,149,1460,Paper Mulberry,Broussonetia papyrifera (L.) Vent.,13.044680,77.574833,0.35,4,2,Healthy,TRANSPLANTING,1600-1800
