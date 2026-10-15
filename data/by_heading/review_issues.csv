@@ -1,0 +1,78 @@
+group,source_page,row_identifier,field,issue
+03_rhs_tunnel_hebbal_lake,21,tree_no_29_and_29A,latitude,Ink stamp obscures the printed coordinate; left blank for review.
+03_rhs_tunnel_hebbal_lake,24,tree_no_96,sl_no,Printed serial appears to read 79 between SL88 and SL90; preserved as printed for review.
+03_rhs_tunnel_hebbal_lake,25,tree_no_157,latitude,Ink stamp obscures the printed coordinate; left blank for review.
+03_rhs_tunnel_hebbal_lake,25,tree_no_158,latitude,Ink stamp obscures the printed coordinate; left blank for review.
+03_rhs_tunnel_hebbal_lake,25,tree_no_159,latitude/longitude,Ink stamp obscures the printed coordinates; left blank for review.
+04_lake_ch_0_400_to_0_540,28,SL NO 62 / Tree No. 87,Longitude,Value is not legible/appears blank in scan; left blank for review.
+05_ch_0_550_to_0_700,30,SL NO 42 / Tree No. 246,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,34,SL NO 45 / Tree No. 712,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,34,SL NO 46 / Tree No. 713,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,34,SL NO 47 / Tree No. 714,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,34,SL NO 48 / Tree No. 715,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,34,SL NO 49 / Tree No. 716,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,35,53,longitude,Independent reads differed at one digit; enlarged scan supports 77.574833. Please verify if using this coordinate.
+08_ch_1_600_to_1_800,35,75,cutting_transplanting,Source action cell is blank for dead tree.
+08_ch_1_600_to_1_800,35,81,cutting_transplanting,Source action cell is blank for dead tree.
+08_ch_1_600_to_1_800,35,83,cutting_transplanting,Source action cell is blank for dead tree.
+08_ch_1_600_to_1_800,35,95,latitude,Stamp partly overlaps the value; transcribed as 13.034517 from the enlarged scan. Please verify if using this coordinate.
+08_ch_1_600_to_1_800,35,97,latitude,Stamp obscures the value; left blank for review.
+08_ch_1_600_to_1_800,35,98,latitude/longitude,Stamp obscures coordinates; left blank for review.
+08_ch_1_600_to_1_800,36,112,tree_no,Tree number jumps from 781 to 784; tree numbers 782–783 are not listed.
+08_ch_1_600_to_1_800,36,126,tree_no,Tree number jumps from 798 to 802; tree numbers 799–801 are not listed.
+08_ch_1_600_to_1_800,36,143,latitude,Blank: latitude is obscured by the official stamp; unreadable with confidence.
+08_ch_1_600_to_1_800,36,147,latitude,Blank: latitude is obscured by the official stamp; unreadable with confidence.
+08_ch_1_600_to_1_800,36,147,longitude,Blank: longitude obscured by the official stamp; unreadable with confidence.
+08_ch_1_600_to_1_800,36,147,tree_no,Tree number jumps from 822 to 1458; tree numbers 823–1457 are not listed.
+09_veterinary_college_ch_1_800_to_1_900,39,40,tree_no,Sequence jumps from 869 to 1008; tree numbers 870–1007 are not listed in this table.
+09_veterinary_college_ch_1_800_to_1_900,39,41,tree_no,Sequence jumps from 1008 to 1046; tree numbers 1009–1045 are not listed in this table.
+09_veterinary_college_ch_1_800_to_1_900,39,46,tree_no,Sequence jumps from 1050 to 1064; tree numbers 1051–1063 are not listed in this table.
+09_veterinary_college_ch_1_800_to_1_900,39,53,tree_no,Sequence jumps from 1070 to 1072; tree number 1071 is not listed in this table.
+09_veterinary_college_ch_1_800_to_1_900,39,61,tree_no,Sequence jumps from 1079 to 1094; tree numbers 1080–1093 are not listed in this table.
+09_veterinary_college_ch_1_800_to_1_900,39,68,tree_no,Sequence jumps from 1100 to 1112; tree numbers 1101–1111 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,40,latitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,40,longitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,41,latitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,41,longitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,42,girth_m,Official stamp obscures cell; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,42,latitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,42,42,longitude,Official stamp obscures coordinate; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,81,latitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,82,latitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,82,longitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,83,latitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,83,longitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,84,latitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,43,84,longitude,Partly obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,125,latitude,Obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,125,longitude,Obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,126,approx_height_m,Obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,126,latitude,Obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,126,longitude,Obscured by official stamp; blanked.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,85,tree_no,Sequence jumps from 1006 to 1131; intervening tree number(s) 1007–1130 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,86,tree_no,Sequence jumps from 1131 to 1138; intervening tree number(s) 1132–1137 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,44,89,tree_no,Sequence jumps from 1140 to 1150; intervening tree number(s) 1141–1149 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,127,longitude,Last digit is unclear at the right edge of the scan; left blank.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,140,cutting_transplanting,Blank in source row (tree marked Dead); preserved as blank.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,142,tree_no,Sequence jumps from 1202 to 1204; intervening tree number(s) 1203–1203 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,152,tree_no,Sequence jumps from 1213 to 1215; intervening tree number(s) 1214–1214 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,153,tree_no,Sequence jumps from 1215 to 1236; intervening tree number(s) 1216–1235 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,154,tree_no,Sequence jumps from 1236 to 1238; intervening tree number(s) 1237–1237 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,155,tree_no,Sequence jumps from 1238 to 1246; intervening tree number(s) 1239–1245 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,157,tree_no,Sequence jumps from 1247 to 1250; intervening tree number(s) 1248–1249 are not listed in this table.
+11_uas_staff_quarter_ch_2_000_to_2_200,45,159,tree_no,Sequence jumps from 1251 to 1290; intervening tree number(s) 1252–1289 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,17,tree_no,Sequence jumps from 1149 to 1203; intervening tree number(s) 1150–1202 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,18,tree_no,Sequence jumps from 1203 to 1214; intervening tree number(s) 1204–1213 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,19,tree_no,Sequence jumps from 1214 to 1216; intervening tree number(s) 1215–1215 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,2,tree_no,Sequence jumps from 1130 to 1132; intervening tree number(s) 1131–1131 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,37,longitude,Partly obscured by official stamp; blanked.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,38,longitude,Partly obscured by official stamp; blanked.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,39,tree_no,Sequence jumps from 1235 to 1237; intervening tree number(s) 1236–1236 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,46,8,tree_no,Sequence jumps from 1137 to 1141; intervening tree number(s) 1138–1140 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,40,tree_no,Sequence jumps from 1237 to 1239; intervening tree number(s) 1238–1238 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,47,tree_no,Sequence jumps from 1245 to 1248; intervening tree number(s) 1246–1247 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,48,cutting_transplanting,Blank in source row (tree marked Dead); preserved as blank.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,49,tree_no,Sequence jumps from 1249 to 1252; intervening tree number(s) 1250–1251 are not listed in this table.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,72,canopy_diameter_m,Cell appears blank in scan; left blank in CSV.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,47,77,latitude,Obscured by official stamp; left blank in CSV.
+12_uas_staff_quarter_road_diversion_ch_2_000_to_2_200,48,87,tree_no,Sequence jumps from 1289 to 1291; intervening tree number(s) 1290–1290 are not listed in this table.

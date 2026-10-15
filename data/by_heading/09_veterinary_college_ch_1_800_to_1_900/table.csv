@@ -1,0 +1,75 @@
+source_page,sl_no,tree_no,tree_english_common_name,botanical_name,latitude,longitude,girth_m,approx_height_m,canopy_diameter_m,condition_of_tree,cutting_transplanting,location
+38,1,823,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033289,77.587667,0.55,3,1,Healthy,CUTTING,1800-1900
+38,2,824,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033350,77.587483,0.45,2.5,1,Healthy,CUTTING,1800-1900
+38,3,825,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033307,77.587530,0.6,6,2,Healthy,CUTTING,1800-1900
+38,4,826,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033325,77.587556,0.55,5,1,Healthy,CUTTING,1800-1900
+38,5,827,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033309,77.587594,0.55,5,1,Healthy,CUTTING,1800-1900
+38,6,828,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033295,77.587601,0.55,6,1,Healthy,CUTTING,1800-1900
+38,7,829,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033295,77.587602,0.55,6,1,Healthy,CUTTING,1800-1900
+38,8,830,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033273,77.587638,0.5,5,2,Healthy,CUTTING,1800-1900
+38,9,831,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033273,77.587638,0.6,6,2,Healthy,CUTTING,1800-1900
+38,10,832,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033273,77.587638,0.65,6,2,Healthy,CUTTING,1800-1900
+38,11,833,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033231,77.587744,0.65,6,2,Healthy,CUTTING,1800-1900
+38,12,834,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033203,77.587808,0.6,6,2,Healthy,CUTTING,1800-1900
+38,13,835,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033207,77.587810,0.65,6,2,Healthy,CUTTING,1800-1900
+38,14,836,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033207,77.587810,0.65,6,2,Healthy,CUTTING,1800-1900
+38,15,837,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033207,77.587810,0.75,7,2,Healthy,CUTTING,1800-1900
+38,16,838,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033205,77.587884,0.7,5,2,Healthy,CUTTING,1800-1900
+38,17,839,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033186,77.587790,0.75,5,2,Healthy,CUTTING,1800-1900
+38,18,840,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033198,77.587719,0.75,5,2,Healthy,CUTTING,1800-1900
+38,19,841,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033237,77.587626,0.7,5,2,Healthy,CUTTING,1800-1900
+38,20,842,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033268,77.587596,0.75,5,2,Healthy,CUTTING,1800-1900
+38,21,843,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033299,77.587533,0.75,5,3,Healthy,TRANSPLANTING,1800-1900
+38,22,844,Rain Tree,Samanea saman (Jacq.) Merrill,13.033313,77.587475,0.65,4,6,Healthy,TRANSPLANTING,1800-1900
+38,23,845,Tabebuia spp.,Tabebuia spp.,13.033435,77.587412,1.5,5,10,Healthy,TRANSPLANTING,1800-1900
+38,24,846,Bottle Brush,Callistemon citrinus (Curtis) Skeels,13.033435,77.587458,0.45,4,3,Healthy,TRANSPLANTING,1800-1900
+38,25,847,Blue jacaranda,Jacaranda mimosifolia D. Don,13.033425,77.587572,0.55,4,4,Healthy,TRANSPLANTING,1800-1900
+38,26,848,Big leaved macrophyllum,Alstonia macrophylla Wall.,13.033513,77.587571,0.65,6,4,Healthy,TRANSPLANTING,1800-1900
+38,27,849,Yellow Tabebuia,Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore,13.033484,77.587541,0.55,3,3,Healthy,TRANSPLANTING,1800-1900
+38,28,850,Bottle Brush,Callistemon citrinus (Curtis) Skeels,13.033482,77.587558,0.55,3,3,Healthy,TRANSPLANTING,1800-1900
+38,29,851,Chinese thuja,"Thuja biota (Linn.,) Blume",13.033562,77.587594,0.25,2,2,Healthy,TRANSPLANTING,1800-1900
+38,30,852,Rain Tree,Samanea saman (Jacq.) Merrill,13.033496,77.587713,1.5,6,15,Healthy,TRANSPLANTING,1800-1900
+38,31,853,Rain Tree,Samanea saman (Jacq.) Merrill,13.033417,77.587654,0.65,5,6,Healthy,TRANSPLANTING,1800-1900
+38,32,854,Big-leaf mahogany,Swetinia macrophylla King,13.033348,77.587764,0.95,6,3,Healthy,TRANSPLANTING,1800-1900
+39,33,863,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.032942,77.587653,0.3,3,2,Healthy,TRANSPLANTING,1800-1900
+39,34,864,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.032942,77.587653,0.45,3,3,Healthy,TRANSPLANTING,1800-1900
+39,35,865,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.032942,77.587653,0.3,3,2,Healthy,TRANSPLANTING,1800-1900
+39,36,866,Big-leaf mahogany,Swetinia macrophylla King,13.032942,77.587653,0.7,5,3,Healthy,TRANSPLANTING,1800-1900
+39,37,867,Spanish cherry,Mimusops elengi Linn.,13.033008,77.587736,0.55,3,3,Healthy,TRANSPLANTING,1800-1900
+39,38,868,Blue jacaranda,Jacaranda mimosifolia D. Don,13.033209,77.587600,0.85,4,6,Healthy,TRANSPLANTING,1800-1900
+39,39,869,Blue jacaranda,Jacaranda mimosifolia D. Don,13.033185,77.587551,0.9,4,6,Healthy,TRANSPLANTING,1800-1900
+39,40,1008,Yellow copperpod,Peltophorum pterocarpum (DC.) Bk.exHyn,13.033888,77.587601,1.1,6,6,Healthy,TRANSPLANTING,1800-1900
+39,41,1046,Mayflower,Delonix regia (Hook.) Rafin.,13.033400,77.587893,1,4,8,Healthy,TRANSPLANTING,1800-1900
+39,42,1047,Blue jacaranda,Jacaranda mimosifolia D. Don,13.033307,77.587933,0.8,4,6,Healthy,TRANSPLANTING,1800-1900
+39,43,1048,Blue jacaranda,Jacaranda mimosifolia D. Don,13.033307,77.587933,1.1,5,8,Healthy,TRANSPLANTING,1800-1900
+39,44,1049,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033208,77.587874,1,6,2,Healthy,TRANSPLANTING,1800-1900
+39,45,1050,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.033172,77.587879,1,5,1,Healthy,CUTTING,1800-1900
+39,46,1064,Mayflower,Delonix regia (Hook.) Rafin.,13.032728,77.587286,0.4,3,3,Healthy,CUTTING,1800-1900
+39,47,1065,Big-leaf mahogany,Swetinia macrophylla King,13.032910,77.587462,0.65,5,2,Healthy,TRANSPLANTING,1800-1900
+39,48,1066,Badminton ball tree,Parkia biglandulosa Wt. & Arn.,13.032910,77.587462,1.2,6,8,Healthy,TRANSPLANTING,1800-1900
+39,49,1067,Blue jacaranda,Jacaranda mimosifolia D. Don,13.032848,77.587415,1.5,5,12,Healthy,TRANSPLANTING,1800-1900
+39,50,1068,Tabebuia spp.,Tabebuia spp.,13.032808,77.587420,0.65,4,5,Healthy,TRANSPLANTING,1800-1900
+39,51,1069,Sago palm,Cycas revoluta Thunb.,13.032785,77.587323,0.65,1.5,1,Healthy,TRANSPLANTING,1800-1900
+39,52,1070,Bottle Palm,Roystonia regia (H.B.K.) Cooke,13.032713,77.587358,0.85,5,4,Healthy,TRANSPLANTING,1800-1900
+39,53,1072,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.032740,77.587475,0.3,3,3,Healthy,TRANSPLANTING,1800-1900
+39,54,1073,Spectacular cassia,Senna spectabilis (DC.) Irwin & Barneby,13.032740,77.587475,0.3,3,3,Healthy,CUTTING,1800-1900
+39,55,1074,Bottle Palm,Roystonia regia (H.B.K.) Cooke,13.032675,77.587430,0.8,4,3,Healthy,CUTTING,1800-1900
+39,56,1075,Mayflower,Delonix regia (Hook.) Rafin.,13.032675,77.587430,0.85,4,10,Healthy,TRANSPLANTING,1800-1900
+39,57,1076,Tabebuia spp.,Tabebuia spp.,13.032675,77.587430,0.65,4,6,Healthy,TRANSPLANTING,1800-1900
+39,58,1077,Rain Tree,Samanea saman (Jacq.) Merrill,13.032673,77.587403,0.45,4,4,Healthy,TRANSPLANTING,1800-1900
+39,59,1078,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.032692,77.587352,0.75,5,4,Healthy,TRANSPLANTING,1800-1900
+39,60,1079,Sago palm,Cycas revoluta Thunb.,13.032726,77.587263,0.8,1.5,2,Healthy,TRANSPLANTING,1800-1900
+39,61,1094,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.032562,77.587247,0.4,4,1,Healthy,TRANSPLANTING,1800-1900
+39,62,1095,Tabebuia spp.,Tabebuia spp.,13.032628,77.587253,0.3,2,2,Healthy,TRANSPLANTING,1800-1900
+39,63,1096,Big leaved macrophyllum,Alstonia macrophylla Wall.,13.032380,77.587343,0.85,6,3,Healthy,TRANSPLANTING,1800-1900
+39,64,1097,Rain Tree,Samanea saman (Jacq.) Merrill,13.032370,77.587329,0.95,5,8,Healthy,TRANSPLANTING,1800-1900
+39,65,1098,River tamarind,Leucaena leucocephala (Lamk.) De Wit,13.032420,77.587388,0.2,1.5,1,Healthy,TRANSPLANTING,1800-1900
+39,66,1099,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.032494,77.587330,0.65,4,3,Healthy,TRANSPLANTING,1800-1900
+39,67,1100,Pink Trumpet tree,Tabebuia pentaphylla (Linn.) Hemsl.,13.033366,77.587337,0.7,4,3,Healthy,TRANSPLANTING,1800-1900
+39,68,1112,Arjun tree,Terminalia arjuna (Roxb.) Wt&Arn.,13.032206,77.587287,0.85,4,4,Healthy,TRANSPLANTING,1800-1900
+39,69,1113,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.032177,77.587305,0.4,3,3,Healthy,TRANSPLANTING,1800-1900
+39,70,1114,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.032140,77.587362,0.9,7,2,Healthy,TRANSPLANTING,1800-1900
+39,71,1115,False ashoka,Polyalthia longifolia var.pendula (Sonn.) Thw.,13.032143,77.587416,0.85,7,2,Healthy,TRANSPLANTING,1800-1900
+39,72,1116,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.032243,77.587264,0.5,3,3,Healthy,TRANSPLANTING,1800-1900
+39,73,1117,Pongam tree,Pongamia pinnata (Linn.) Pierre,13.032279,77.587497,0.5,3,3,Healthy,TRANSPLANTING,1800-1900
+39,74,1118,Siris tree,Albizzia lebbeck (Linn.) Willd.,13.032273,77.587495,0.3,3,1,Healthy,TRANSPLANTING,1800-1900

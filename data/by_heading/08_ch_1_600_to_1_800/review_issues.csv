@@ -1,0 +1,19 @@
+source_page,row_identifier,field,issue
+34,SL NO 45 / Tree No. 712,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+34,SL NO 46 / Tree No. 713,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+34,SL NO 47 / Tree No. 714,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+34,SL NO 48 / Tree No. 715,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+34,SL NO 49 / Tree No. 716,Latitude and Longitude,Ink stamp obscures coordinates; left blank for review.
+35,53,longitude,Independent reads differed at one digit; enlarged scan supports 77.574833. Please verify if using this coordinate.
+35,75,cutting_transplanting,Source action cell is blank for dead tree.
+35,81,cutting_transplanting,Source action cell is blank for dead tree.
+35,83,cutting_transplanting,Source action cell is blank for dead tree.
+35,95,latitude,Stamp partly overlaps the value; transcribed as 13.034517 from the enlarged scan. Please verify if using this coordinate.
+35,97,latitude,Stamp obscures the value; left blank for review.
+35,98,latitude/longitude,Stamp obscures coordinates; left blank for review.
+36,112,tree_no,Tree number jumps from 781 to 784; tree numbers 782–783 are not listed.
+36,126,tree_no,Tree number jumps from 798 to 802; tree numbers 799–801 are not listed.
+36,143,latitude,Blank: latitude is obscured by the official stamp; unreadable with confidence.
+36,147,latitude,Blank: latitude is obscured by the official stamp; unreadable with confidence.
+36,147,longitude,Blank: longitude obscured by the official stamp; unreadable with confidence.
+36,147,tree_no,Tree number jumps from 822 to 1458; tree numbers 823–1457 are not listed.
